@@ -1,0 +1,5 @@
+﻿  FourOperation.cpp
+d:\visual studio 2017\projects\fouroperation\fouroperation\fouroperation.cpp(184): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\visual studio 2017\projects\fouroperation\fouroperation\fouroperation.cpp(221): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  FourOperation.vcxproj -> D:\visual studio 2017\Projects\FourOperation\Debug\FourOperation.exe
+  FourOperation.vcxproj -> D:\visual studio 2017\Projects\FourOperation\Debug\FourOperation.pdb (Partial PDB)
